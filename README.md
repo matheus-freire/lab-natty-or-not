@@ -23,20 +23,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo deste projeto foi explorar as capacidades das IAs Generativas na criação de materiais publicitários únicos e personalizados. A campanha foi desenvolvida para um produto fictício, um novo tipo de smartphone com foco em sustentabilidade e design minimalista.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Midjourney: Utilizada para gerar imagens de alta qualidade e estilo artístico para a campanha, como visuais para redes sociais, banners e materiais impressos.
+ChatGPT: Empregado para criar textos criativos e persuasivos para os slogans, legendas das imagens e descrição do produto.
+DALL-E 2: Utilizado para gerar imagens mais realistas e fotográficas, como fotos de produtos e cenários para a campanha.
+Adobe Photoshop: Ferramenta de edição de imagem para refinar as imagens geradas pelas IAs e criar os materiais finais da campanha.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Definição do conceito: Foram definidas as principais características do produto e da marca, como sustentabilidade, minimalismo e tecnologia de ponta.
+Geração de imagens: Utilizando as IAs Generativas, foram geradas diversas imagens com base nos conceitos definidos. Foram explorados diferentes estilos artísticos e abordagens visuais.
+Criação de textos: O ChatGPT foi utilizado para gerar textos criativos e persuasivos para acompanhar as imagens, como slogans, legendas e descrições do produto.
+Montagem dos materiais: As imagens e textos gerados foram combinados no Adobe Photoshop para criar os materiais finais da campanha, como banners, posts para redes sociais e materiais impressos.
+Iteração e refinamento: O processo de criação foi iterativo, com constantes ajustes e refinamentos nas imagens e textos gerados pelas IAs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**A campanha publicitária gerada com a ajuda das IAs Generativas apresentou resultados promissores, com imagens visuaismente impactantes e textos criativos que conseguiram transmitir a essência do produto e da marca. Os materiais produzidos foram utilizados em uma campanha de marketing digital e social media, alcançando um grande número de pessoas e gerando engajamento.**
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
